@@ -1,0 +1,47 @@
+{
+  "$schema": "../../node_modules/ng-packagr/package.schema.json",
+
+
+
+  "author": {
+    "name": "Antonio Macias"
+  },
+
+  "bundleDependencies": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  },
+  "deprecated": false,
+  "description": "Angular powered owl-carousel",
+  "es2015": "fesm2015/ngx-owl-carousel-o.js",
+  "esm2015": "esm2015/ngx-owl-carousel-o.js",
+  "esm5": "esm5/ngx-owl-carousel-o.js",
+  "fesm2015": "fesm2015/ngx-owl-carousel-o.js",
+  "fesm5": "fesm5/ngx-owl-carousel-o.js",
+
+  "keywords": [
+    "angular",
+    "owl-carousel",
+    "components",
+    "responsive",
+    "carousel",
+    "owlcarousel",
+    "owl carousel Angular",
+    "owl-carousel Angular",
+    "owlcarousel Angular"
+  ],
+  "license": "MIT",
+  "main": "bundles/ngx-owl-carousel-o.umd.js",
+  "metadata": "ngx-owl-carousel-o.metadata.json",
+  "module": "fesm5/ngx-owl-carousel-o.js",
+  "name": "ngx-responsive-carousel",
+  "peerDependencies": {
+    "@angular/common": "^8.0.0-rc.0 || ^8.0.0 || ^9.0.0-rc.0",
+    "@angular/core": "^8.0.0-rc.0 || ^8.0.0 || ^9.0.0-rc.0",
+    "rxjs": "^6.0.1"
+  },
+
+  "sideEffects": false,
+  "typings": "ngx-owl-carousel-o.d.ts",
+  "version": "4.0.0"
+}
